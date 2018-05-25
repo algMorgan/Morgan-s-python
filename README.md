@@ -1,2 +1,2 @@
-# Morgan-s-python
+# python
 study
